@@ -9,7 +9,7 @@
 
 <img src="https://infinitekind.com/images/moneydance-app-icon-155@2x.png" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/moneydance">
+<a href="https://gnomik-gomik-apps.github.io/.github/moneydance">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 
